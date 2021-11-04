@@ -14,3 +14,5 @@ Abrange os bancos:
 399 Kirton Bank;
 422 Safra;
 745 Citibank;
+
+Tenho algoritmos para outros bancos, porém não implementados em SQL Server. Favor consultar-me.
